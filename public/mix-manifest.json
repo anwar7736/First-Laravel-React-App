@@ -2,5 +2,12 @@
     "/js/app.js": "/js/app.js",
     "/css/app.css": "/css/app.css",
     "/css/style.css": "/css/style.css",
-    "/css/responsive.css": "/css/responsive.css"
+    "/css/responsive.css": "/css/responsive.css",
+    "/images/banner.svg": "/images/banner.svg",
+    "/images/BKASH-LOGO.png": "/images/BKASH-LOGO.png",
+    "/images/classroom.png": "/images/classroom.png",
+    "/images/loading.svg": "/images/loading.svg",
+    "/images/logo.svg": "/images/logo.svg",
+    "/images/play.svg": "/images/play.svg",
+    "/images/wentWrong.png": "/images/wentWrong.png"
 }
