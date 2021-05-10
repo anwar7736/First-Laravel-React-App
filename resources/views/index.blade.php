@@ -7,7 +7,6 @@
     <link rel="stylesheet" type="text/css" href="{{asset('css/app.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('css/style.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('css/responsive.css')}}">
-    <title>Laravel with React JS</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>

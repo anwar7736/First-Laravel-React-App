@@ -6,6 +6,7 @@ class Menu extends Component {
     render() {
         return (
             <Fragment>
+                <title>{this.props.title}</title>
                 <Navbar className="fixed-top" variant="light" expand="lg">
                     <Navbar.Brand><NavLink className="nav-font" to="/" >Anwar Hossain</NavLink></Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />

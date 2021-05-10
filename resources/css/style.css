@@ -12,6 +12,7 @@
 .btn:focus{
     box-shadow: none;
 }
+
 .nav-logo{
     width:120px;
     height:40px;
@@ -230,12 +231,6 @@ a:hover{
     font-size:18px;
     font-weight:300;
 }
-
-
-
-
-
-
 
 #snackbar {
     visibility: hidden;
